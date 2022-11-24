@@ -16,7 +16,7 @@ import json
 # 10 = debug mode                                               #
 #################################################################
 
-SLOW_FACTOR = 10
+SLOW_FACTOR = 3
 
 INIT = "initialize"
 SEND_HEARTBEAT = "heartbeat"
